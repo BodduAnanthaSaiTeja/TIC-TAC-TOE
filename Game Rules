@@ -1,0 +1,9 @@
+Game Rules :
+
+* position can be accessible by providing the number between 1 to 9 for (3x3) board.
+
+* to win the three characters should be same and serially (Continuously) existed either as a row (or) as a column (or) diagonally.
+
+* once a position is occupied , again the player can't place at the same position.
+
+* There is a possibility or a case where both players match can be draw.(no winner).
